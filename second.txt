@@ -1,2 +1,6 @@
 this is second change
-flag day
+ dev
+
+hello updated second.txt
+flag
+master
